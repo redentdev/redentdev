@@ -5,7 +5,7 @@
 <a href="https://github.cok/redentdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=redentdev&theme=react" width="%100" height="150px" alt="stats"/></a>
 
 ## Top Technologies 
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js"></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js"></a><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redentdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
 <!--
 **redentdev/redentdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
