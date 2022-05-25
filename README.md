@@ -3,7 +3,8 @@ Hello everyone, im redent.
 - learning nodejs
 ## My Discord 
 [![Discord Presence](https://lanyard.cnrad.dev/api/574645568320700494?animated=true)](https://discord.com/users/574645568320700494)
-
+## Social 
+[![Discord](https://img.shields.io/badge/%20-Discord-gray?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/574645568320700494)
 ## Stats 
 <a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a><br>
 
