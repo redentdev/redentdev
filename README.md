@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Github Stats 
+<a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
+<a href="https://github.cok/redentdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=redentdev&theme=react" width="%100" height="150px" alt="stats"/></a>
 <!--
 **redentdev/redentdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
