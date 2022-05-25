@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+## My Discord 
+[![Discord Presence](https://lanyard.cnrad.dev/api/574645568320700494?animated=true)](https://discord.com/users/574645568320700494)
 
 ## Github Stats 
 <a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a><br>
