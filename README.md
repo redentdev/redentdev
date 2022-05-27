@@ -6,7 +6,7 @@ Hello everyone, im redent.
 ## Social 
 [![Discord](https://img.shields.io/badge/%20-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/574645568320700494) [![Spotify](https://img.shields.io/badge/%20-Spotify-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ymrbbwxe8e4rcyil6v8kd8a2x) [![YouTube](https://img.shields.io/badge/%20-Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/redent)
 ## Stats 
-<a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a><br>
+<a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redentdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
 <!--
