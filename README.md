@@ -12,7 +12,7 @@ Hello everyone, im redent.
 
 <details>
 <summary>📚 My Repos</summary>
-<br>
+
  - [Invite Info API](https://github.com/redentdev/invite-info-api)
  - [Discord.JS Template](https://github.com/redentdev/discordjs-template)
  - [Aoi.JS Template](https://github.com/redentdev/aoijs-template)
