@@ -9,6 +9,17 @@ Hello everyone, im redent.
 <a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redentdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
+
+<details>
+<summary>My Repos</summary>
+
+ - [Invite Info API](https://github.com/redentdev/invite-info-api)
+ - [Discord.JS Template](https://github.com/redentdev/discordjs-template)
+ - [Aoi.JS Template](https://github.com/redentdev/aoijs-template)
+ - [Döviz API](https://github.com/redentdev/doviz-api)
+
+</details>
+
 <!--
 **redentdev/redentdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
