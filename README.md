@@ -11,8 +11,8 @@ Hello everyone, im redent.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redentdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
 
 <details>
-<summary>My Repos</summary>
-
+<summary>📚 My Repos</summary>
+<br>
  - [Invite Info API](https://github.com/redentdev/invite-info-api)
  - [Discord.JS Template](https://github.com/redentdev/discordjs-template)
  - [Aoi.JS Template](https://github.com/redentdev/aoijs-template)
