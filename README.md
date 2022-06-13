@@ -10,7 +10,9 @@ Hello everyone, im redent.
 [![HTML](https://img.shields.io/badge/%20-Html-555555?style=for-the-badge&logo=html5)](https://html.com)
 [![CSS](https://img.shields.io/badge/%20-Css-555555?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Mongo](https://img.shields.io/badge/%20-Mongo-555555?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![JSON](https://img.shields.io/badge/%20-Js-555555?style=for-the-badge&logo=express)](https://expressjs.com)
+[![Express](https://img.shields.io/badge/%20-Express-555555?style=for-the-badge&logo=express)](https://expressjs.com)
+[![Replit](https://img.shields.io/badge/%20-Replit-555555?style=for-the-badge&logo=replit)](https://replit.com)
+[![Glitch](https://img.shields.io/badge/%20-Glitch-555555?style=for-the-badge&logo=glitch)](https://glitch.com)
 [![Node](https://img.shields.io/badge/%20-Node.js-555555?style=for-the-badge&logo=node.js)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/%20-Npm-555555?style=for-the-badge&logo=npm)](https://www.npmjs.com)
 <a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
