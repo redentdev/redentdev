@@ -1,7 +1,6 @@
 # Hi there 👋
 Hello everyone, im redent.
-- learning nodejs
-- working on nuxtjs
+- my current work nuxtjs
 ## My Discord 
 [![Discord Presence](https://lanyard.cnrad.dev/api/574645568320700494?animated=true)](https://discord.com/users/574645568320700494)
 ## Social 
