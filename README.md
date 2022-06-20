@@ -1,12 +1,13 @@
 # Hi there 👋
 Hello everyone, im redent.
-- my current work nuxtjs
+- learning python
 ## My Discord 
 [![Discord Presence](https://lanyard.cnrad.dev/api/574645568320700494?animated=true)](https://discord.com/users/574645568320700494)
 ## Social 
 [![Discord](https://img.shields.io/badge/%20-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/574645568320700494) [![Spotify](https://img.shields.io/badge/%20-Spotify-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ymrbbwxe8e4rcyil6v8kd8a2x) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZKIfP6pVEaLDJ6fQySRDpg?color=ff0000&label=YouTube&style=for-the-badge)](https://youtube.com/redent) [![GitHub followers](https://img.shields.io/github/followers/redentdev?color=000001&label=Followers&style=for-the-badge)](https://github.com/redentdev)
 ## Stats
 [![JavaScript](https://img.shields.io/badge/%20-Javascript-555555?style=for-the-badge&logo=javascript)](https://www.javascript.com)
+[![Python](https://img.shields.io/badge/%20-Python-555555?style=for-the-badge&logo=python)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/%20-Html-555555?style=for-the-badge&logo=html5)](https://html.com)
 [![CSS](https://img.shields.io/badge/%20-Css-555555?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Mongo](https://img.shields.io/badge/%20-Mongo-555555?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
