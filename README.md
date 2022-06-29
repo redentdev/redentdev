@@ -13,7 +13,7 @@ Hello everyone, im redent.
 [![Nuxt](https://img.shields.io/badge/%20-Nuxt.js-555555?style=for-the-badge&logo=nuxt.js)](https://nuxtjs.org)
 [![Vue](https://img.shields.io/badge/%20-Vue-555555?style=for-the-badge&logo=vue.js)](https://vuejs.org)
 [![Node](https://img.shields.io/badge/%20-Node.js-555555?style=for-the-badge&logo=node.js)](https://nodejs.org)
-<a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
+<a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redentdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
 
 <details>
