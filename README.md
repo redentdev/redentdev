@@ -8,6 +8,8 @@ Hello everyone, im redent.
 ## Languages
 
 <img height="32" width="32" src="/icons/html.svg">
+<img height="32" width="32" src="/icons/css.svg">
+<img height="32" width="32" src="/icons/javascript.svg">
 ## Stats
 [![JavaScript](https://img.shields.io/badge/%20-Javascript-282828?style=for-the-badge&logo=javascript)](https://www.javascript.com)
 [![Python](https://img.shields.io/badge/%20-Python-282828?style=for-the-badge&logo=python)](https://www.python.org)
