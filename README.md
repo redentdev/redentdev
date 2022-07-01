@@ -15,15 +15,9 @@ Hello everyone, im redent.
 <a href="https://nodejs.org/en/"><img height="32" width="32" src="/icons/nodejs.svg"></a>
 <a href="https://git-scm.com/"><img height="32" width="32" src="/icons/git.svg"></a>
 <a href="https://vuejs.org/"><img height="32" width="32" src="/icons/vuejs.svg"></a>
-<a href="https://nuxtjs.org/"><img height="32" width="32" src="/icons/nuxt.svg"></a>
+<a href="https://nuxtjs.org/"><img height="32" width="32" src="/icons/nuxtjs.svg"></a>
 ## Stats
-[![JavaScript](https://img.shields.io/badge/%20-Javascript-282828?style=for-the-badge&logo=javascript)](https://www.javascript.com)
-[![Python](https://img.shields.io/badge/%20-Python-282828?style=for-the-badge&logo=python)](https://www.python.org)
-[![HTML](https://img.shields.io/badge/%20-Html-282828?style=for-the-badge&logo=html5)](https://html.com)
-[![CSS](https://img.shields.io/badge/%20-Css-282828?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Nuxt](https://img.shields.io/badge/%20-Nuxt.js-282828?style=for-the-badge&logo=nuxt.js)](https://nuxtjs.org)
-[![Vue](https://img.shields.io/badge/%20-Vue-282828?style=for-the-badge&logo=vue.js)](https://vuejs.org)
-[![Node](https://img.shields.io/badge/%20-Node.js-282828?style=for-the-badge&logo=node.js)](https://nodejs.org)
+
 <a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redentdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
 
