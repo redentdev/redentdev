@@ -4,7 +4,7 @@ Hello everyone, im redent.
 ## My Discord 
 [![Discord Presence](https://lanyard.cnrad.dev/api/574645568320700494?animated=true)](https://discord.com/users/574645568320700494)
 ## Social 
-[![Discord](https://img.shields.io/badge/%20-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/574645568320700494) [![Spotify](https://img.shields.io/badge/%20-Spotify-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ymrbbwxe8e4rcyil6v8kd8a2x) [![YouTube](https://img.shields.io/badge/%20-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/redent)
+[![Instagram](https://img.shields.io/badge/%20-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/@rdntsemih) [![Discord](https://img.shields.io/badge/%20-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/574645568320700494) [![Spotify](https://img.shields.io/badge/%20-Spotify-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ymrbbwxe8e4rcyil6v8kd8a2x) [![YouTube](https://img.shields.io/badge/%20-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/redent)
 ## Languages
 
 <a href="https://www.w3schools.com/html/html_intro.asp"><img height="32" width="32" src="/icons/html.svg"></a>
@@ -12,6 +12,7 @@ Hello everyone, im redent.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=tr"><img height="32" width="32" src="/icons/javascript.svg"></a>
 <a href="https://www.python.org"><img height="32" width="32" src="/icons/python.svg"></a>
 <a href="https://nodejs.org/en/"><img height="32" width="32" src="/icons/nodejs.svg"></a>
+<a href="https://git-scm.com/"><img height="32" width="32" src="/icons/git.svg"></a>
 ## Stats
 [![JavaScript](https://img.shields.io/badge/%20-Javascript-282828?style=for-the-badge&logo=javascript)](https://www.javascript.com)
 [![Python](https://img.shields.io/badge/%20-Python-282828?style=for-the-badge&logo=python)](https://www.python.org)
