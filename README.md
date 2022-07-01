@@ -11,8 +11,11 @@ Hello everyone, im redent.
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img height="32" width="32" src="/icons/css.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=tr"><img height="32" width="32" src="/icons/javascript.svg"></a>
 <a href="https://www.python.org"><img height="32" width="32" src="/icons/python.svg"></a>
+<a href="https://www.typescriptlang.org/"><img height="32" width="32" src="/icons/types.svg"></a>
 <a href="https://nodejs.org/en/"><img height="32" width="32" src="/icons/nodejs.svg"></a>
 <a href="https://git-scm.com/"><img height="32" width="32" src="/icons/git.svg"></a>
+<a href="https://vuejs.org/"><img height="32" width="32" src="/icons/vuejs.svg"></a>
+<a href="https://nuxtjs.org/"><img height="32" width="32" src="/icons/nuxt.svg"></a>
 ## Stats
 [![JavaScript](https://img.shields.io/badge/%20-Javascript-282828?style=for-the-badge&logo=javascript)](https://www.javascript.com)
 [![Python](https://img.shields.io/badge/%20-Python-282828?style=for-the-badge&logo=python)](https://www.python.org)
