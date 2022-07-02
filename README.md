@@ -22,12 +22,13 @@ Hello everyone, im redent.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redentdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
 
 <details>
-<summary>📚 Repositories (4)</summary><br>
+<summary>📚 Repositories (5)</summary><br>
 
  [![Invite Info API](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=invite-info-api&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/invite-info-api)
  [![Discord.JS Template](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=discordjs-template&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/discordjs-template)
  [![Aoi.JS Template](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=aoijs-template&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/aoijs-template)
  [![Döviz API](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=doviz-api&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/doviz-api)
+ [![Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=password-generator&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/password-generator)
 
 </details>
 
