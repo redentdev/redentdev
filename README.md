@@ -27,6 +27,7 @@ Hello everyone, im redent.
 <details>
 <summary>📚 Repositories (6)</summary><br>
 
+ [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=calculator&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/calculator)
  [![Clock](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=clock&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/clock)
  [![Invite Info API](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=invite-info-api&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/invite-info-api)
  [![Discord.JS Template](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=discordjs-template&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/discordjs-template)
