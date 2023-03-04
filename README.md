@@ -1,6 +1,6 @@
 # Hi there 👋
 Hello everyone, im redent.
-- working on **python**
+- working on **front end**
 ## My Discord 
 [![Discord Presence](https://lanyard.cnrad.dev/api/850268232328806420?animated=true)](https://discord.com/users/574645568320700494)
 
@@ -25,8 +25,9 @@ Hello everyone, im redent.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redentdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
 
 <details>
-<summary>📚 Repositories (5)</summary><br>
+<summary>📚 Repositories (6)</summary><br>
 
+ [![Clock](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=clock&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/clock)
  [![Invite Info API](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=invite-info-api&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/invite-info-api)
  [![Discord.JS Template](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=discordjs-template&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/discordjs-template)
  [![Aoi.JS Template](https://github-readme-stats.vercel.app/api/pin/?username=redentdev&repo=aoijs-template&show_icons=true&locale=en&theme=github_dark)](https://github.com/redentdev/aoijs-template)
