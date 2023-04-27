@@ -17,8 +17,6 @@ Hello everyone, im redent.
 <a href="https://www.typescriptlang.org/"><img height="32" width="32" src="/icons/types.svg"></a>
 <a href="https://nodejs.org/en/"><img height="32" width="32" src="/icons/nodejs.svg"></a>
 <a href="https://git-scm.com/"><img height="32" width="32" src="/icons/git.svg"></a>
-<a href="https://vuejs.org/"><img height="32" width="32" src="/icons/vuejs.svg"></a>
-<a href="https://nuxtjs.org/"><img height="32" width="32" src="/icons/nuxtjs.svg"></a>
 ## Stats
 
 <a href="https://github.com/redentdev"><img src="https://github-readme-stats.vercel.app/api?username=redentdev&how_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a><br>
