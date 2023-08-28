@@ -7,7 +7,7 @@ Hello everyone, im redent.
 [Click Here For My Own API](https://api.readev.tk/)<br>
 [Click Here For My Development Discord Server](https://readev.tk/dc)
 ## Social 
-[![Instagram](https://img.shields.io/badge/%20-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/@rdntsemih) [![Discord](https://img.shields.io/badge/%20-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/850268232328806420) [![Spotify](https://img.shields.io/badge/%20-Spotify-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ymrbbwxe8e4rcyil6v8kd8a2x) [![YouTube](https://img.shields.io/badge/%20-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/redent)
+[![Instagram](https://img.shields.io/badge/%20-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/redent.py?igshid=NjIwNzIyMDk2Mg==) [![Discord](https://img.shields.io/badge/%20-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/850268232328806420) [![Spotify](https://img.shields.io/badge/%20-Spotify-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ymrbbwxe8e4rcyil6v8kd8a2x) [![YouTube](https://img.shields.io/badge/%20-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/redent)
 ## Languages
 
 <a href="https://www.w3schools.com/html/html_intro.asp"><img height="32" width="32" src="/icons/html.svg"></a>
