@@ -1,6 +1,6 @@
 # Hi there 👋
 Hello everyone, im redent.
-- working on **front end**
+- working on a **woman**
 ## My Discord 
 [![Discord Presence](https://lanyard.cnrad.dev/api/849405014682370058?animated=true)](https://discord.com/users/849405014682370058)
 
